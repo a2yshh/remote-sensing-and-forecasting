@@ -1,4 +1,4 @@
-# water-area-analysis
+# remote sensing using landsat imagery analysis and prophet-based forecasting
 
 
 ## Overview
